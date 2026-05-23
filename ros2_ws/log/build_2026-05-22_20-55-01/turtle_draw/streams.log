@@ -1,0 +1,24 @@
+[0.435s] Invoking command in '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/src/turtle_draw': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_draw build --build-base /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build install --record /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/install.log --single-version-externally-managed install_data
+[0.582s] running egg_info
+[0.591s] writing ../../build/turtle_draw/turtle_draw.egg-info/PKG-INFO
+[0.591s] writing dependency_links to ../../build/turtle_draw/turtle_draw.egg-info/dependency_links.txt
+[0.591s] writing entry points to ../../build/turtle_draw/turtle_draw.egg-info/entry_points.txt
+[0.591s] writing requirements to ../../build/turtle_draw/turtle_draw.egg-info/requires.txt
+[0.591s] writing top-level names to ../../build/turtle_draw/turtle_draw.egg-info/top_level.txt
+[0.610s] reading manifest file '../../build/turtle_draw/turtle_draw.egg-info/SOURCES.txt'
+[0.611s] writing manifest file '../../build/turtle_draw/turtle_draw.egg-info/SOURCES.txt'
+[0.611s] running build
+[0.611s] running build_py
+[0.611s] copying turtle_draw/draw_turtle.py -> /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build/lib/turtle_draw
+[0.611s] running install
+[0.615s] running install_lib
+[0.625s] copying /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build/lib/turtle_draw/draw_turtle.py -> /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw
+[0.625s] byte-compiling /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw/draw_turtle.py to draw_turtle.cpython-312.pyc
+[0.626s] running install_data
+[0.626s] running install_egg_info
+[0.636s] removing '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw-0.0.0-py3.12.egg-info' (and everything under it)
+[0.637s] Copying ../../build/turtle_draw/turtle_draw.egg-info to /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw-0.0.0-py3.12.egg-info
+[0.637s] running install_scripts
+[0.714s] Installing draw_turtle script to /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/turtle_draw
+[0.714s] writing list of installed files to '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/install.log'
+[0.731s] Invoked command in '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/src/turtle_draw' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_draw build --build-base /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build install --record /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/install.log --single-version-externally-managed install_data

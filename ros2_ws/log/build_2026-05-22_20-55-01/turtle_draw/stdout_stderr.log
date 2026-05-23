@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/turtle_draw/turtle_draw.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_draw/turtle_draw.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_draw/turtle_draw.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_draw/turtle_draw.egg-info/requires.txt
+writing top-level names to ../../build/turtle_draw/turtle_draw.egg-info/top_level.txt
+reading manifest file '../../build/turtle_draw/turtle_draw.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_draw/turtle_draw.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtle_draw/draw_turtle.py -> /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build/lib/turtle_draw
+running install
+running install_lib
+copying /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/build/lib/turtle_draw/draw_turtle.py -> /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw
+byte-compiling /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw/draw_turtle.py to draw_turtle.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/turtle_draw/turtle_draw.egg-info to /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/python3.12/site-packages/turtle_draw-0.0.0-py3.12.egg-info
+running install_scripts
+Installing draw_turtle script to /home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/install/turtle_draw/lib/turtle_draw
+writing list of installed files to '/home/inteli/Documentos/codigos/2026/M06-Inteli2026/turtle-draw/ros2_ws/build/turtle_draw/install.log'
